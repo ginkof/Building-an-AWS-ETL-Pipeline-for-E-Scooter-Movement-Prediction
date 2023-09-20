@@ -1,1 +1,1 @@
-# Building-an-AWS-ETL-Pipeline-for-E-Scooter-Movement-Prediction
+# Building an AWS ETL Pipeline for E-Scooter Movement Prediction
